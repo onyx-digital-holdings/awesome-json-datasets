@@ -93,6 +93,8 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [Press Releases](https://www.justice.gov/api/v1/press_releases.json?pagesize=2)
   * [Speeches](https://www.justice.gov/api/v1/speeches.json?pagesize=2)
   * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
+* United States Employer Costs
+  * [Payroll taxes, unemployment insurance, paid leave, workers' comp and minimum wage by state and city, 2026-2027](https://raw.githubusercontent.com/onyx-digital-holdings/us-employer-cost-dataset/main/us-employer-cost-2026-2027.json)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
